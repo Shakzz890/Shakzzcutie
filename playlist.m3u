@@ -1454,7 +1454,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 
 ###### CARTOONS AND ANIMATIONS #######
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjHpyNxVnfFtUcADEv3Xg6SJrGQ0mRxotZrTPc8Ltp_XNPr0GSpLONMjq&s=10"
+#EXTINF:-1 group-logo="https://img2.wikia.nocookie.net/__cb20131219223713/cartoonnetwork/images/8/81/Warner_Bros._Animation_Logo.png"
 
 #EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-name="Naruto" tvg-logo="https://i.ibb.co/k89NQ92/Naruto-logo-svg.png" group-title="CARTOONS AND ANIMATIONS",Naruto 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -1510,8 +1510,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 ########## MOVIES ############
-
-#EXTINF:-1 group-logo="https://img.freepik.com/free-vector/movie-time-neon-sign-sign_24908-55555.jpg?semt=ais_hybrid&w=740"
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR5QpP7AHT91oLNzml1vFLH6ULG5fYvwuvrHwak0STvIN03hPwT9iQsYs&s=10",Spy x Family: Code White (Tagalog Dub | 720p)
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
@@ -1604,9 +1602,4 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/pl_sdi9.mpd
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 #EXTINF:-1 tvg-id="pilipinalive10" tvg-name="🇵🇭 PILIPINAS LIVE EVENT #10" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png" group-title="🇵🇭 PILIPINAS LIVE",🇵🇭 PILIPINAS LIVE EVENT 10
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/pl_sdi10.mpd
-
-
-
-
-
 
