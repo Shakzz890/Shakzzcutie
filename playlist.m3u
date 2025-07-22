@@ -1405,6 +1405,27 @@ https://abbfefcaaaaaaaamd5xd44ij4vbyj.a17d0dfbc05b48999f461f3f6cff0eb6.emt.cf.ww
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="World TV", AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/GMA_HALLYPOP_LOGO_2020.jpg" group-title="World TV", Hallypop
+https://jungotvstream.chanall.tv/jungotv/hallypop/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Scream_Flix_Logo_2022.png/revision/latest/scale-to-width-down/1200?cb=20250419020619" group-title="World TV", ScreamFlix
+https://jungotvstream.chanall.tv/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRneG2hIDzQS75A9KHg2FJTbE76qj9fX301dA&s" group-title="World TV", Front Row
+https://jungotvstream.chanall.tv/jungotv/frontrow/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYm23zkJn2ZVrGTMUfLULxPtcAycgK-zb96A&s" group-title="World TV", Combat Go
+https://jungotvstream.chanall.tv/jungotv/combatgo/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrgyuzyxnS4PB5zqcMI9MyZwjgxsEwr4lpg&s" group-title="World TV", AWSN
+https://amg02188-amg02188c2-jungotv-northamerica-5717.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/oT4LFcdusmWboxy8ZC9c6NS0riqRi6_96U-gXLT7C-NarXKKFjLDbyko6iFJVfr743e4eTnv=s900-c-k-c0x00ffffff-no-rj" group-title="World TV", Jungo Pinoy TV
+https://jungotvstream.chanall.tv/jungotv/jungopinoytv/stream.m3u8
+
+
 ###### PREMIUM SPORTS ######
 
 #EXTINF:-1 group-logo="https://logowik.com/content/uploads/images/sports8897.jpg"
